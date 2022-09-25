@@ -1,1 +1,0 @@
-mongodb+srv://triforze1:Omega111952!!@cluster0.gdgsewl.mongodb.net/?retryWrites=true&w=majority
